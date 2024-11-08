@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamini1183&show_icons=true&locale=en" alt="yamini1183" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamini1183&" alt="yamini1183" /></p>
-[![An image of @yamini1183's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yamini1183)](https://holopin.io/@yamini1183)
+[![@yamini1183's Holopin badges](https://holopin.me/yamini1183)](https://holopin.io/@yamini1183)
